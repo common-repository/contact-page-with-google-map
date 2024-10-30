@@ -1,0 +1,47 @@
+.hours_div {
+	min-width:10%;
+	display: inline-block;
+}
+			
+.allday {
+	margin-left: 5%;
+}
+
+#cpwgm_details .inside input {
+	margin-bottom: 5px;
+}
+
+.item_label_span {
+	margin-right: 5px;
+}
+
+.cpwgm_phone_input__label,
+.cpwgm_additional_input__label {
+	margin-right: 50px;
+}
+
+.cpwgm_phone_input__entry,
+.cpwgm_additional_input__entry {
+	margin-right: 15px;
+}
+
+.cpwgm_social_wrap input.button.remove_item {
+	box-shadow: none;
+	position: relative;
+	top: 10px;
+}
+
+.remove_social_icon {
+	float: right;
+}
+
+.cpwgm_social_item_wrap {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.social_icon_preview {
+	position: relative;
+	top: 10px;
+	left: 15px;
+}
